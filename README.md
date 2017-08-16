@@ -1,2 +1,2 @@
 # MesHire
-Android App
+IOS app on IOS 10. (Beta) in developement
